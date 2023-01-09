@@ -26,4 +26,4 @@
 <center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width = "30" height = "30"> 
 
  
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CassiaAlthman/CassiaAlthman/blob/output/github-contribution-grid-snake.svg)
