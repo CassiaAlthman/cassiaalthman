@@ -20,14 +20,15 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = "30" height = "30"> 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width = "30" height = "30">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width = "30" height = "30">
 
 ##### <center>Estou aprendendo 
 
 <center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width = "30" height = "30"> 
 <center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width = "30" height = "30">
 <center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width = "30" height = "30">
-<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width = "30" height = "30">
 <center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width = "30" height = "30">
-<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width = "30" height = "30">
  
 ![Snake animation](https://github.com/CassiaAlthman/CassiaAlthman/blob/output/github-contribution-grid-snake.svg)
